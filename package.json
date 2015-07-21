@@ -36,7 +36,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "bleno": "~0.1.13"
+    "bleno": "~0.1.14"
   },
   "devDependencies": {
       "jshint": "~2.5.6",
